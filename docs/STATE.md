@@ -1,8 +1,8 @@
 # STATE
 
-- **status:** active_bootstrap
-- **updated:** 2026-08-16T07:45:00-07:00
-- **repo:** https://github.com/kn1026/conduit 
+- **status:** active
+- **updated:** 2026-08-16T07:49:00-07:00
+- **repo:** https://github.com/kn1026/conduit
 - **version:** 0.1.0
 - **next:** Claude Code / Codex adapter hooks; harden topology clustering; policy-graded sandbox profile; PR ledger comment format
 - **claims:**
@@ -10,5 +10,7 @@
   - handoff completion_gap works
   - isolation assert_write_allowed blocks shared git state
   - topo partitions this package by top-level dir
-- **posts_today_pt:** 0
-- **blockers:** none at bootstrap
+  - public MIT repo live; day-0 launch X posted
+- **posts_today_pt:** 1
+- **last_x:** https://x.com/khoi_danny/status/2089001527134339173
+- **blockers:** none
