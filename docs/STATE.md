@@ -1,10 +1,10 @@
 # STATE
 
 - **status:** active
-- **updated:** 2026-08-16T07:55:00-07:00
+- **updated:** 2026-08-16T08:16:00-07:00
 - **repo:** https://github.com/kn1026/conduit
 - **version:** 0.1.0
-- **next:** Claude Code hook adapter + temp-repo integration test (kernel denies hooks write; INTENDED/LANDED on src edit). See `docs/SESSIONS/session-20260816-0755-handoff-and-x-takeaway.md`.
+- **next:** Claude Code hook adapter + temp-repo integration test (kernel denies hooks write; INTENDED/LANDED on src edit). See `docs/SESSIONS/session-20260816-0816-x-morning-skip.md`.
 - **continuity:** every turn MUST write new `docs/SESSIONS/session-*.md` from TEMPLATE (Did / Where paths / What left / Recommended next / Takeaway) or turn is incomplete
 - **x_gate:** morning X only after synthesizing one clean stranger-facing takeaway + proof from sessions/LOG/git; else skip
 - **claims:**
@@ -16,5 +16,6 @@
   - session TEMPLATE + continuity law + X takeaway gate in WORKFLOW
 - **posts_today_pt:** 1
 - **last_x:** https://x.com/khoi_danny/status/2089001527134339173
-- **last_session:** docs/SESSIONS/session-20260816-0755-handoff-and-x-takeaway.md
+- **last_session:** docs/SESSIONS/session-20260816-0816-x-morning-skip.md
+- **last_x_gate:** 2026-08-16 08:16 PT skip — no clean takeaway (process-only since launch)
 - **blockers:** none
