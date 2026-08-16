@@ -1,16 +1,20 @@
 # STATE
 
 - **status:** active
-- **updated:** 2026-08-16T07:49:00-07:00
+- **updated:** 2026-08-16T07:55:00-07:00
 - **repo:** https://github.com/kn1026/conduit
 - **version:** 0.1.0
-- **next:** Claude Code / Codex adapter hooks; harden topology clustering; policy-graded sandbox profile; PR ledger comment format
+- **next:** Claude Code hook adapter + temp-repo integration test (kernel denies hooks write; INTENDED/LANDED on src edit). See `docs/SESSIONS/session-20260816-0755-handoff-and-x-takeaway.md`.
+- **continuity:** every turn MUST write new `docs/SESSIONS/session-*.md` from TEMPLATE (Did / Where paths / What left / Recommended next / Takeaway) or turn is incomplete
+- **x_gate:** morning X only after synthesizing one clean stranger-facing takeaway + proof from sessions/LOG/git; else skip
 - **claims:**
   - policy denies `.git/hooks/**` writes
   - handoff completion_gap works
   - isolation assert_write_allowed blocks shared git state
   - topo partitions this package by top-level dir
   - public MIT repo live; day-0 launch X posted
+  - session TEMPLATE + continuity law + X takeaway gate in WORKFLOW
 - **posts_today_pt:** 1
 - **last_x:** https://x.com/khoi_danny/status/2089001527134339173
+- **last_session:** docs/SESSIONS/session-20260816-0755-handoff-and-x-takeaway.md
 - **blockers:** none
