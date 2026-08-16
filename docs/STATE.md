@@ -2,7 +2,7 @@
 
 - **status:** active_bootstrap
 - **updated:** 2026-08-16T07:45:00-07:00
-- **repo:** https://github.com/kn1026/conduit (pending first push)
+- **repo:** https://github.com/kn1026/conduit 
 - **version:** 0.1.0
 - **next:** Claude Code / Codex adapter hooks; harden topology clustering; policy-graded sandbox profile; PR ledger comment format
 - **claims:**
